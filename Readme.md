@@ -192,7 +192,6 @@ history_ffn = ffn_model.fit(
     validation_split=0.2,
     callbacks=[early_stop]
 )
-```
 
 ## Results Comparison
 
