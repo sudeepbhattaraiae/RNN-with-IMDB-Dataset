@@ -150,6 +150,8 @@ plt.show()
 ### Visualization Example:
 ![Training vs Validation Accuracy](./trainingandvalidationaccuracy.png "Accuracy Graph")
 
+![Training vs Validation Loss](./trainingandvalidationloss.png "Loss Graph")
+
 ---
 
 ## Hyperparameter Tuning
